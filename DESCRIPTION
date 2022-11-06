@@ -37,7 +37,6 @@ Imports:
     grid,
     gridExtra,
     Biostrings,
-    ComplexHeatmap,
     GenomicRanges
 Depends:
 Collate: 
